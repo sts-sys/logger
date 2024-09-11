@@ -1,1 +1,23 @@
-
+{
+    "name": "sts/logger",
+    "description": "Core logger library for STS framework",
+    "type": "library",
+    "keywords": ["core", "logger", "debug", "sts", "library", "framework"],
+    "license": "MIT",
+    "version": "1.0.1-dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Staark",
+            "email": "ionuzcostin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sts\\": "src/debug/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
