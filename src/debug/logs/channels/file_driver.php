@@ -1,8 +1,8 @@
 <?php
 
-namespace sts\debug\logs\channels;
+namespace sts\logger\logs\channels;
 
-use sts\debug\interfaces\LogChannelInterface;
+use sts\logger\interfaces\LogChannelInterface;
 
 /**
  * Clasa FileDriver gestionează logarea în fișiere, rotația și arhivarea fișierelor de log
