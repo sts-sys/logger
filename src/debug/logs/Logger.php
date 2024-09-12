@@ -1,9 +1,9 @@
 <?php
 
-namespace sts\debug\logs;
+namespace sts\logger\logs;
 
-use sts\debug\interfaces\LoggerInterface;
-use sts\debug\interfaces\LogChannelInterface;
+use sts\logger\interfaces\LoggerInterface;
+use sts\logger\interfaces\LogChannelInterface;
 
 class Logger implements LoggerInterface
 {
