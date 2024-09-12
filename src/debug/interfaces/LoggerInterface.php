@@ -1,6 +1,6 @@
 <?php
 
-namespace sts\debug\interfaces;
+namespace sts\logger\interfaces;
 
 /**
  * Interfața LoggerInterface definește contractul pentru toate clasele de logare.
