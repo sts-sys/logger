@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "sts\\": "src/debug/"
+            "sts\\logger": "src/debug/"
         }
     },
     "require": {
