@@ -1,8 +1,8 @@
 <?php
 
-namespace sts\debug\logs\channels;
+namespace sts\logger\logs\channels;
 
-use sts\debug\interfaces\LogChannelInterface;
+use sts\logger\interfaces\LogChannelInterface;
 
 class EmailDriver implements LogChannelInterface
 {
